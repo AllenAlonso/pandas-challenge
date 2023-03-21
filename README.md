@@ -1,1 +1,9 @@
 # pandas-challenge
+
+report
+
+From the aggregate data, we can first assess with the district summary that about 65% of students are reaching passing grades in both math and reading. Compared to the average math and reading percentages, the overall percentages is at least 10% lower than either score. Breaking it down further with the school summary we can see which schools fall below the district averages and how much money is allocated per student. The highest performing schools tended to be all charter schools with lower counts of total students and the inverse is true of the lowest performing school all being district type schools with much higher student counts. 
+
+With the spending ranges varying from <$585 to $680 per student, we can see how the spending correlates to passing grades. Given the data there does seem to be a trend that less money spent on students correlates to higher grades in both math and reading. However, because lower students counts require less money we can then compare school sizes to the passing statistics. This shows that small(<1000) schools tend to do better than large(2000-5000) schools by large margin, about 30% more of the respective population of students is passing overall in small schools. This trend is also true for medium(1000-2000) sized schools leading me to believe if you want better overall passing students, then the student population should be 2000 or below. 
+
+By school type, charter schools seem to have better scores across the board but this can be due to the school sizes of the charter schools in the district. We can conclude that size is the main driving factor of better grades, the less students the better. We can also see that budget spending per student has a negative correlation with grades and should not be a solution for bad grades.
